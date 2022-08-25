@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-practice/static/css/main.b927167c.css",
+    "main.js": "/movie-practice/static/js/main.4dae5ac8.js",
+    "static/js/787.e253fc0a.chunk.js": "/movie-practice/static/js/787.e253fc0a.chunk.js",
+    "index.html": "/movie-practice/index.html",
+    "main.b927167c.css.map": "/movie-practice/static/css/main.b927167c.css.map",
+    "main.4dae5ac8.js.map": "/movie-practice/static/js/main.4dae5ac8.js.map",
+    "787.e253fc0a.chunk.js.map": "/movie-practice/static/js/787.e253fc0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b927167c.css",
+    "static/js/main.4dae5ac8.js"
+  ]
+}
